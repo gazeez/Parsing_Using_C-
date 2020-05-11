@@ -1,0 +1,13 @@
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\bin\Debug\netcoreapp3.1\C#_Review.exe
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\bin\Debug\netcoreapp3.1\C#_Review.deps.json
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\bin\Debug\netcoreapp3.1\C#_Review.runtimeconfig.json
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\bin\Debug\netcoreapp3.1\C#_Review.runtimeconfig.dev.json
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\bin\Debug\netcoreapp3.1\C#_Review.dll
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\bin\Debug\netcoreapp3.1\C#_Review.pdb
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\obj\Debug\netcoreapp3.1\C#_Review.csprojAssemblyReference.cache
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\obj\Debug\netcoreapp3.1\C#_Review.csproj.CoreCompileInputs.cache
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\obj\Debug\netcoreapp3.1\C#_Review.AssemblyInfoInputs.cache
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\obj\Debug\netcoreapp3.1\C#_Review.AssemblyInfo.cs
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\obj\Debug\netcoreapp3.1\C#_Review.dll
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\obj\Debug\netcoreapp3.1\C#_Review.pdb
+C:\Users\Gafar\Documents\Tech_Careers\C#_Review\obj\Debug\netcoreapp3.1\C#_Review.genruntimeconfig.cache
